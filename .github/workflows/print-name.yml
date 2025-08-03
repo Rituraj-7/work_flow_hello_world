@@ -12,4 +12,4 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v3
       - name: Print your name
-        run: echo "Hello, my name is Rituraj!"
+        run: echo "Hello, my name is  Rituraj!"
